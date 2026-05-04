@@ -1,4 +1,4 @@
-### **Team Members**
+Distributed Application Development (Web App Lost and Found)
 
 | Name                                        | Student ID    |
 | ------------------------------------------- | ------------- |
